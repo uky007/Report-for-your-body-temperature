@@ -7,6 +7,6 @@ COVID-19 で日々の体温の報告が必要になった際の効率化ツー�
 
 # Usage
 
-````
+```
 $ python3 generate_your_temp.py
 ```
